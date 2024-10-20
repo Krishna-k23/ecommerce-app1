@@ -1,5 +1,3 @@
-Here's a detailed and clean `README.md` template with instructions on how to add two screenshots of the product listing page and the product details page, along with descriptions:
-
 ---
 
 # Ecommerce App
