@@ -72,7 +72,7 @@ ecommerce-app/
 
 ## Usage
 
-- **Product Pagination**: Each page displays 10 products, and users can navigate between pages using "Previous" and "Next" buttons.
+- **Product Pagination**: Each page displays 10 products, and users can navigate between pages.
 - **Product Details**: Click on any product from the listing page to view more details about it, including additional images, descriptions, and ratings.
 
 ---
